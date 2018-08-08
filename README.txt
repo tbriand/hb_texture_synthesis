@@ -31,7 +31,7 @@ the Heeger & Bergen texture synthesis algorithm described in the IPOL webpage
 http://www.ipol.im/pub/art/2014/79/
 
 
-The last release should be available at: https://github.com/tbriand/bspline_interpolation_c
+The last release should be available at: https://github.com/tbriand/hb_texture_synthesis
 
 
 This code is provided with an HTML documentation produced by doxygen:
