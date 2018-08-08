@@ -1,3 +1,5 @@
+# The Heeger & Bergen pyramid based texture synthesis algorithm
+
 This code is distributed under the terms of the GPLv3 license.
 
 Copyright (C) 2012, Thibaud Briand, ENS Cachan <thibaud.briand@ens-cachan.fr>
@@ -25,12 +27,11 @@ Jonathan VACHER  ; <jvacher@ens-cachan.fr>
 2. URLs
 
 This source code is an ANSI C implementation of
-the Heeger & Bergen texture synthesis algorithm describes in the IPOL webpage
+the Heeger & Bergen texture synthesis algorithm described in the IPOL webpage
+http://www.ipol.im/pub/art/2014/79/
 
-Heeger & Bergen texture synthesis:
 
-
-The last release should be available at:
+The last release should be available at: https://github.com/tbriand/bspline_interpolation_c
 
 
 This code is provided with an HTML documentation produced by doxygen:
